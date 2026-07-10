@@ -5,6 +5,6 @@ This folder contains all assignments completed during Week 1 of the AI Fluency I
 # Assignments
 
 - Portfolio Sitemap
-- Assignment 2
+- Creating Proof Statement
 - Assignment 3
 - Assignment 4
