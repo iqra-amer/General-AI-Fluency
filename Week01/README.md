@@ -6,5 +6,5 @@ This folder contains all assignments completed during Week 1 of the AI Fluency I
 
 - Portfolio Sitemap
 - Creating Proof Statement
-- Assignment 3
-- Assignment 4
+- Workflow audit
+
