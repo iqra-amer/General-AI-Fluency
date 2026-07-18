@@ -4,5 +4,6 @@ This folder contains my Week 2 AI Fluency assignment.
  
 - Frame it as Cases
 - Prompt Ladder
+- Prompt Engineering Iteration Log
   
 
