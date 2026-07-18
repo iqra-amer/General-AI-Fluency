@@ -1,3 +1,5 @@
-# Week 2 - Frame It as Cases
+# Week 2 : This folder contains my Week 2 AI Fluency assignment.
 
-This folder contains my Week 2 AI Fluency assignment.
+## Frame it as Cases
+
+
